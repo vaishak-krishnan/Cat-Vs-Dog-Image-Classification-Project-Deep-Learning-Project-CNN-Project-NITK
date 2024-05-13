@@ -1,0 +1,5 @@
+# Ignore specific folders
+PetImages/
+dataset/
+# Ignore all zip files
+*.zip
